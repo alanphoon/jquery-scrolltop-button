@@ -64,7 +64,7 @@ jquery-scrolltop-button is a super lightweight and simple JQuery plugin that dis
 });
 </code></pre>
 
-<p>or use your own custom content this way:</p>
+<p>or use your own custom image like this:</p>
 <pre><code>$(document).ready(function() { 
   $("body").addScrollTop({
   	buttonInner: '&#60;img src="/images/scroll_button.png" /&#62;'
