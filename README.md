@@ -49,10 +49,11 @@ jquery-scrolltop-button is a super lightweight and simple JQuery plugin that dis
 
 <ul>
     <li><strong>topOffset</strong> :: offset from top before showing button, numeric value only in pixels, default = 20</li>
+</ul>
+<p>- Define how far down the page the user scrolls before the button shows up by using the topOffset option.</p>
+<ul>
     <li><strong>buttonInner</strong> :: button's inner content, html, default = '&amp;#94;' (html entity for ^)</li>
 </ul>
-
-<p>- Define how far down the page the user scrolls before the button shows up by using the topOffset option.</p>  
 <p>- You can also alternatively change what is displayed inside the button with any HTML you wish:</p> 
 
 <p>For example, if you have Font Awesome loaded, use the font-awesome icon instead by initializing this way:</p>
