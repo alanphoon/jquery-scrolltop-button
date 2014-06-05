@@ -29,7 +29,7 @@ jquery-scrolltop-button is a super lightweight and simple JQuery plugin that dis
 }
 &#60;/style&#62;
 </code></pre>
-<p><em>The styles included are default styles for the scoll button that pops up.  You may modify this to make it more custom to your site if you wish such as changing the offsets from the viewport edges or if it appears on the left or right side, top or bottom. Note: it is important that you keep the "position:fixed" and "z-index:999" or to a relatively high index so it sits atop any potential content you may have on the page.</em></p>
+<p><em>The styles included are default styles for the scoll button that pops up.  You may modify this to make it more custom to your site if you wish such as color, size, offsets from the viewport edges or if it appears on the left or right side, top or bottom. Note: it is important that you keep the "position:fixed" and "z-index:999" or to a relatively high index so it sits atop any potential content you may have on the page.</em></p>
 
 <p>Initialize and bind to the DOM window that is being scrolled. <strong>99% of the time, you will want to bind it to your "body" tag</strong>, but in some cases, you may have another DOM element that you wish to bind the scrolling in:</p>
 <pre><code>$(document).ready(function() { 
