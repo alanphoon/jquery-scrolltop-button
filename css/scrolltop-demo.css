@@ -1,0 +1,11 @@
+.scrollTop-btn {
+	background-color:rgba(0,0,0,0.4);
+	color:#fff;
+	position:fixed;
+	bottom:30px;
+	right:10px;
+	padding:10px 15px 6px 15px;
+	border-radius:3px;
+	z-index:199;
+	font-weight:bold;
+}
