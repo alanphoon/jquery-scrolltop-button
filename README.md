@@ -36,3 +36,5 @@ jquery-scrolltop-button is a super lightweight and simple JQuery plugin that dis
   $("body").addScrollTop();
 });
 </code></pre>
+
+<p>That's it.  Anytime you scroll beyond the initial fold, the scroll to top button will appear at the bottom right of the screen for you.</p>
