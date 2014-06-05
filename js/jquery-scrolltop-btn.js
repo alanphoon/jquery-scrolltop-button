@@ -1,3 +1,11 @@
+/*---------------------------------------
+Jquery ScrollTop Button
+Copyright (c) 2014 Alan Phoon, www.ampedupdesigns.com  
+This notice MUST stay intact for legal use and may not be modified.
+
+Licensed under GNU GENERAL PUBLIC LICENSE
+-----------------------------------------*/
+
 $.fn.extend({
 	addScrollTop: function(options) {
 		
