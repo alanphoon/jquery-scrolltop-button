@@ -28,6 +28,7 @@ jquery-scrolltop-button is a super lightweight and simple JQuery plugin that dis
 	font-weight:bold;
 }
 &#60;/style&#62;
+</code></pre>
 <p><em>The styles included are default styles for the scoll button that pops up.  You may modify this to make it more custom to your site if you wish such as changing the offsets from the viewport edges. It is important that you keep the position:fixed and z-index to a relatively high index so it sits atop any potential content.</em></p>
 
 <p>Initialize and bind to the CSS class you used above on page ready:</p>
