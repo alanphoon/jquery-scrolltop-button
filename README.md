@@ -39,7 +39,7 @@ jquery-scrolltop-button is a super lightweight and simple JQuery plugin that dis
 
 <p>That's it.  Anytime you scroll down from the top offset (20px is default), the scroll to top button will appear at the bottom right of the screen for you.</p>
 
-<h2>Configuring</h2>
+<h2>Optional Configuration</h2>
 <p>There are two <i>optional</i> configurable options on initialization :</p>
 <pre><code>$("body").addScrollTop({
     topOffset: 20,
