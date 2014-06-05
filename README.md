@@ -5,7 +5,7 @@ jquery-scrolltop-button is a super lightweight and simple JQuery plugin that dis
 
 <h2>Requirements</h2>
 <ul>
-    <li>Jquery must be loaded.</li>
+    <li>Jquery must be preloaded.</li>
 </ul>
 
 <h2>Usage</h2>
