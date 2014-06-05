@@ -11,7 +11,7 @@ jquery-scrolltop-button is a super lightweight and simple JQuery plugin that dis
 <h2>Usage</h2>
 <p>See example files (index.html) in this project for a quick demo.</p>
 <p>Add the jquery-scrolltop-button plugin script to your &#60;head&#62; tag or before the closing &#60;body&#62; tag:</p> 
-<pre><code>&#60;script type="text/javascript" src="/js/jquery-scrolltop-button.1.0.0.js"&#62;&#60;/script&#62;
+<pre><code>&#60;script type="text/javascript" src="/js/jquery-scrolltop-button.1.0.0.min.js"&#62;&#60;/script&#62;
 </code></pre>
 <p>* Please note the version number</p>
 <p>Make sure to add the CSS styling for the jquery-scrolltop-button in your head or css file:</p>
