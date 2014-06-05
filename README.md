@@ -58,7 +58,7 @@ jquery-scrolltop-button is a super lightweight and simple JQuery plugin that dis
 <p>For example, if you have Font Awesome loaded, use the font-awesome icon instead by initializing this way:</p>
 <pre><code>$(document).ready(function() { 
   $("body").addScrollTop({
-  	buttonInner: '<i class="fa fa-chevron-up"></i>'
+  	buttonInner: '&#60;i class="fa fa-chevron-up"&#62;&#60;/i&#62;'
   });
 });
 </code></pre>
