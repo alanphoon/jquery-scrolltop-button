@@ -9,7 +9,7 @@ Licensed under GNU GENERAL PUBLIC LICENSE
 
 $.fn.extend({
 
-	ebatesAddScrollTop: function(options) {
+	addScrollTop: function(options) {
 	
 		var defaults = {
 	            useObjWindow : false,
